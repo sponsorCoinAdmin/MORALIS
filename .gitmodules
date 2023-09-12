@@ -7,3 +7,6 @@
 [submodule "spCoinMoralis"]
 	path = spCoinMoralis
 	url = git@github.com:sponsorCoinAdmin/spCoinMoralis.git
+[submodule "setupEnv"]
+	path = setupEnv
+	url = git@github.com:sponsorCoinAdmin/spCoinSetupEnv.git
