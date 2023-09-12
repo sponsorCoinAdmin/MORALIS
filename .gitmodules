@@ -1,0 +1,9 @@
+[submodule "dexFinal"]
+	path = dexFinal
+	url = git@github.com:sponsorCoinAdmin/dexFinal.git
+[submodule "dexStarter"]
+	path = dexStarter
+	url = git@github.com:sponsorCoinAdmin/dexStarter.git
+[submodule "spCoinMoralis"]
+	path = spCoinMoralis
+	url = git@github.com:sponsorCoinAdmin/spCoinMoralis.git
