@@ -13,3 +13,4 @@ alias cdroot="cd $SPONSOR_COIN_ROOT"
 alias cdt="cd $SPONSOR_COIN_TEST"
 alias cdtest="cdt"
 alias vbrc="vi ~/.bashrc; . ~/.bashrc"
+

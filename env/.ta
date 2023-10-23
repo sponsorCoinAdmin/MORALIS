@@ -16,3 +16,7 @@ alias hhnode="clear; npx hardhat node  2>&1 > $SPONSOR_COIN_LOGS/hhnode.out &"
 alias hhsize="npx hardhat size-contracts"
 alias hhtest="reset;clear; npx hardhat test 2>&1 | tee ./test.out/hhtest.out"
 alias remixd="nohup node $SPONSOR_COIN_HOME/node_modules/@remix-project/remixd/src/bin/remixd.js 2>&1 > $SPONSOR_COIN_LOGS/remixd.out &"
+
+#SERVER ADMIN COMMANDS
+alias checkport="netstat -ano | findstr 3001"
+alias killtask="echo 'Run this in admin CMD window\n';taskkill /F /PID "
